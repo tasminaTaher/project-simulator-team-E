@@ -34,3 +34,11 @@ T-04 — Add Student Email
 
 Added char email\[100]; to the Student structure.
 
+
+
+T-05 — Add Student Phone Number
+
+
+
+Added char phone\[20]; to the Student structure.
+
