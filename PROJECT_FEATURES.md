@@ -26,3 +26,11 @@ T-03 — Add Student Department
 
 Added char department\[50]; to the Student structure
 
+
+
+T-04 — Add Student Email
+
+
+
+Added char email\[100]; to the Student structure.
+

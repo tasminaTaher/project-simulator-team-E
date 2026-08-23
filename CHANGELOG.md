@@ -14,3 +14,7 @@
 
 \- T-03: Added student department field.
 
+
+
+\- T-04: Added student email field.
+
