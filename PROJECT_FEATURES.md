@@ -18,3 +18,11 @@ T-02 — Add Student CGPA
 
 Added float cgpa; to the Student structure.
 
+
+
+T-03 — Add Student Department
+
+
+
+Added char department\[50]; to the Student structure
+
