@@ -45,6 +45,7 @@ Added char phone\[20]; to the Student structure.
 ### Student Address
 
 The system now stores the address of every student.
+
 ## Student Semester
 
 
@@ -52,4 +53,9 @@ The system now stores the address of every student.
 The System now stores the current semester of every student.
 
 
+##Student Credit Hours
+
+
+
+The system now stores the credit hours of every student.
 

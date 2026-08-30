@@ -7,4 +7,5 @@
 * T-05: Added student phone number field.
 * Added address field to student structure.
 * Added semester field to Student structure.
+* Added credit hours field to Student structure.
 
