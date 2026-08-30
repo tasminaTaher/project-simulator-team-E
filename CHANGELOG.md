@@ -8,4 +8,5 @@
 * Added address field to student structure.
 * Added semester field to Student structure.
 * Added credit hours field to Student structure.
+* Added status field to Student structure.
 

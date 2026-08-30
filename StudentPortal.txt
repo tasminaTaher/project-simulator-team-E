@@ -11,6 +11,7 @@ struct Student
    char address[100];
    int semester;
    int creditHours;
+   char status[20];
 
 };
 

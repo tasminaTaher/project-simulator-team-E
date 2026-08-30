@@ -53,9 +53,16 @@ The system now stores the address of every student.
 The System now stores the current semester of every student.
 
 
-##Student Credit Hours
+
+\##Student Credit Hours
 
 
 
 The system now stores the credit hours of every student.
+
+## STUDENT STATUS
+
+
+
+The system now stores the enrollment status of every student(active,inactive or graduated).
 
